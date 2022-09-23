@@ -1,0 +1,87 @@
+{
+    "data": [
+               {
+            "number": "1",
+            "name": "Doomfist",
+            "fullName": "Akande Ogundimu",
+            "country": "Nigeria",
+            "quote": "“Only through conflict do we evolve.”",
+            "text": "Akande Ogundimu was born into a well-regarded Nigerian family. A highly intelligent and charismatic figure, Ogundimu dedicating his free time to his first love: competitive martial arts.\r\n\r\nBut when he lost his right arm in the aftermath of the Omnic Crisis, it seemed his martial arts career was finished before he had reached his prime. His company's cybernetic prosthetics allowed him to recover from his injuries, even making him stronger, but these enhancements rendered him ineligible for competition. He tried to devote himself to his business with the same zeal that he had for fighting, but he found nothing that could fill the void… until he was given a new opportunity by Akinjide Adeyemi, better known to the world as the second Doomfist, the Scourge of Numbani.\r\n\r\nAs the new Doomfist, Ogundimu rose high in Talon and helped to orchestrate a conflict that the organization hoped would someday engulf the world. However, before their plan came to fruition, Ogundimu was defeated and captured by an Overwatch strike team that included Tracer, Winston, and Genji. He was imprisoned in a maximum-security facility.\r\n",
+            "img": "Doomfist",
+            "book": "https://playoverwatch.com/media/stories/masquerade",
+            "video": "https://www.youtube.com/watch?v=vaZfZFNuOpI",
+            "link": "https://playoverwatch.com/en-us/heroes/doomfist/",
+			"comment": "Doomfist, eh? A brutal guy. I'm not sure if I like him. Though he looks like a dumbass, all muscles, no brain. Easy to trick, easy to hack. Hmmm, maybe, it's not a bad option after all."
+        },
+        {
+            "number": "2",
+            "name": "Reaper",
+            "fullName": "Unknown",
+            "country": "Unknown",
+            "quote": "“Death walks among you.”",
+            "text": "Some speak of a black-robed terrorist known only as the Reaper. His identity and motives are a mystery. What is known is that where he appears, death follows.\r\n\r\nThe Reaper is an extremely volatile mercenary, a ruthless and remorseless killer responsible for terrorist attacks across the world. He has fought in many armed conflicts in the last decades, showing no loyalty to any cause or organization.\r\n\r\nSurvivors have described a black shadow ghosting unscathed through the most hellish battlefields. The few bodies recovered of those he kills are pale, empty husks drained of life, their cells showing signs of intense degradation. It is possible that he is a byproduct of failed genetic alteration which forces his cells to simultaneously decay and regenerate at a hyper-accelerated rate.\r\n\r\nThose attempting to track his movements have begun to see a pattern in his appearances. They believe that Reaper is hunting former Overwatch agents and systematically eliminating them.",
+            "img": "Reaper",
+            "book": "https://playoverwatch.com/ru-ru/media/stories/code-of-violence/",
+            "video": "https://www.youtube-nocookie.com/watch?v=NQMuuCzsv-g",
+            "link": "https://playoverwatch.com/en-us/heroes/reaper/",
+			"comment": "Reaper. “Mr. Your Death Is Here.” A little bit too pathetic. And I was not having in mind “pretentious” only, if you know what I mean. I guess, he'll need some extra fun. For free. Maybe, I will provide this."
+        },
+        {
+            "number": "3",
+            "name": "Moira",
+            "fullName": "Moira O'Deorain",
+            "country": "Ireland",
+            "quote": "“Science will reveal the truth.”",
+            "text": "Equal parts brilliant and controversial, scientist Moira O'Deorain is on the cutting edge of genetic engineering, searching for a way to rewrite the fundamental building blocks of life.\r\n\r\nShe received a lifeline in an offer from an unlikely source: Overwatch's covert ops division, Blackwatch. She continued her work in the shadows while developing new weapons and technologies for the organization. Her employment was a closely kept secret, until it was uncovered during inquiries following the Venice incident. Many high-ranking Overwatch officials disavowed all knowledge of her affiliation with them.\r\n\r\nAfter Overwatch was disbanded, O'Deorain was forced to turn to unconventional sources of funding. This time, she was invited to join the scientific collective that had founded the city of Oasis. Yet some have whispered that the shadowy Talon organization had already been supporting her for years, aiding her experiments in exchange for utilizing the results for their own purposes.",
+            "img": "Moira",
+            "book": "https://playoverwatch.com/en-us/media/stories/retribution/",
+            "video": "https://www.youtube-nocookie.com/watch?v=6ETybQd4uRE",
+            "link": "https://playoverwatch.com/en-us/heroes/moira/",
+			"comment": "Whoah! I'm not sure about that one. She looks like a crazy weirdo from the old movies. Unethical scientist, take that! Who is her lab rat, I wonder..."
+        },
+        {
+            "number": "4",
+            "name": "Oasys"
+        },
+        {
+            "number": "5",
+            "name": "Baptiste"
+        },
+        {
+            "number": "6",
+            "name": "Sigma"
+        },
+        {
+            "number": "7",
+            "name": "Sombra"
+        },
+        {
+            "number": "8",
+            "name": "Reyes"
+        },
+        {
+            "number": "9",
+            "name": "Widowmaker"
+        },
+        {
+            "number": "10",
+            "name": "Talon"
+        },
+        {
+            "number": "11",
+            "name": "Soldier:76"
+        },
+        {
+            "number": "12",
+            "name": "Maximilien"
+        },
+        {
+            "number": "13",
+            "name": "Tracer"
+        },
+        {
+            "number": "14",
+            "name": "Blackwatch"
+        }
+    ]
+}

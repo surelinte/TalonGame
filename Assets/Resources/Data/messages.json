@@ -1,0 +1,157 @@
+{
+    "text": [
+                {
+            "id": "1",
+            "messageField": "1",
+            "messageText": "You're lucky",
+            "length": "13"
+        },
+        {
+            "id": "2",
+            "messageField": "1",
+            "messageText": "Not many have this chance",
+            "length": "26"
+        },
+        {
+            "id": "3",
+            "messageField": "2",
+            "messageText": "Who the Hell are you?",
+            "length": "21"
+        },
+        {
+            "id": "4",
+            "messageField": "1",
+            "messageText": "He who will change your life",
+            "length": "26"
+        },
+        {
+            "id": "5",
+            "messageField": "1",
+            "messageText": "Name's Doomfist",
+            "length": "17"
+        },
+        {
+            "id": "6",
+            "messageField": "1",
+            "messageText": "Ever heard of Talon?",
+            "length": "20"
+        },
+        {
+            "id": "7",
+            "messageField": "2",
+            "messageText": "You're kidding. Right?",
+            "length": "20"
+        },
+        {
+            "id": "8",
+            "messageField": "1",
+            "messageText": "We're interested in you",
+            "length": "22"
+        },
+        {
+            "id": "9",
+            "messageField": "2",
+            "messageText": "Is it some sort of invitation?",
+            "length": "25"
+        },
+        {
+            "id": "10",
+            "messageField": "1",
+            "messageText": "Yes",
+            "length": "6"
+        },
+        {
+            "id": "11",
+            "messageField": "3",
+            "messageText": "Doomfist"
+        },
+        {
+            "id": "12",
+            "messageField": "2",
+            "messageText": "So confident, aren't you?",
+            "length": "23"
+        },
+        {
+            "id": "13",
+            "messageField": "2",
+            "messageText": "What if I say no?",
+            "length": "17"
+        },
+        {
+            "id": "14",
+            "messageField": "1",
+            "messageText": "No is not an option",
+            "length": "18"
+        },
+        {
+            "id": "15",
+            "messageField": "1",
+            "messageText": "Don't fret. You'll like it",
+            "length": "20"
+        },
+        {
+            "id": "16",
+            "messageField": "2",
+            "messageText": "Whom am I to work with?",
+            "length": "24"
+        },
+        {
+            "id": "17",
+            "messageField": "1",
+            "messageText": "Let's take a look",
+            "length": "16"
+        },
+        {
+            "id": "18",
+            "messageField": "3",
+            "messageText": "Reaper"
+        },
+        {
+            "id": "19",
+            "messageField": "2",
+            "messageText": "I'm still not impressed",
+            "length": "21"
+        },
+        {
+            "id": "20",
+            "messageField": "1",
+            "messageText": "You'd better be",
+            "length": "15"
+        },
+        {
+            "id": "21",
+            "messageField": "1",
+            "messageText": "You will be a great asset",
+            "length": "23"
+        },
+        {
+            "id": "22",
+            "messageField": "2",
+            "messageText": "To Talon?",
+            "length": "11"
+        },
+        {
+            "id": "23",
+            "messageField": "1",
+            "messageText": "Yes. And to the team",
+            "length": "20"
+        },
+        {
+            "id": "24",
+            "messageField": "1",
+            "messageText": "Take a look at this one",
+            "length": "22"
+        },
+        {
+            "id": "25",
+            "messageField": "1",
+            "messageText": "They will need your abilities",
+            "length": "26"
+        },
+        {
+            "id": "26",
+            "messageField": "3",
+            "messageText": "Moira"
+        }
+    ]
+}
